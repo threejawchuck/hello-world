@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+# Top Level Directories
+/bin
+/log
+/build
+
+# Third Party Tool Config Files
+.ropeproject
+.sconsign.dblite
+.clang_complete
